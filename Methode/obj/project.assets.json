@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\Methode\\Methode.csproj",
+      "projectUniqueName": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\Methode.csproj",
       "projectName": "Methode",
-      "projectPath": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\Methode\\Methode.csproj",
+      "projectPath": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\Methode.csproj",
       "packagesPath": "C:\\Users\\PsyCh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\Methode\\obj\\",
+      "outputPath": "C:\\Users\\PsyCh\\Documents\\Programmation\\Semaine 6\\LaboMethodes\\Methode\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PsyCh\\AppData\\Roaming\\NuGet\\NuGet.Config",
